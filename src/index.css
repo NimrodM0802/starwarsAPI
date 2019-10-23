@@ -7,9 +7,10 @@ body, html {
   -moz-osx-font-smoothing: grayscale;
   height: 100%;
   /*Photo by Kyle Gregory Devaras on Unsplash*/
-  background-image: url(./staryNight.jpg);
-  background-position: center;
-  background-repeat: repeat;
+  background: url(./staryNight.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
  
 }
