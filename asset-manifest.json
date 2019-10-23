@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/starwarsAPI/static/css/main.5d0bc1ab.chunk.css",
+    "main.js": "/starwarsAPI/static/js/main.250c3e0b.chunk.js",
+    "main.js.map": "/starwarsAPI/static/js/main.250c3e0b.chunk.js.map",
+    "runtime-main.js": "/starwarsAPI/static/js/runtime-main.d0fb7272.js",
+    "runtime-main.js.map": "/starwarsAPI/static/js/runtime-main.d0fb7272.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/starwarsAPI/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.e5e2994c.chunk.js": "/starwarsAPI/static/js/2.e5e2994c.chunk.js",
+    "static/js/2.e5e2994c.chunk.js.map": "/starwarsAPI/static/js/2.e5e2994c.chunk.js.map",
+    "index.html": "/starwarsAPI/index.html",
+    "precache-manifest.538be4b8214774f1fcb823c84aa37232.js": "/starwarsAPI/precache-manifest.538be4b8214774f1fcb823c84aa37232.js",
+    "service-worker.js": "/starwarsAPI/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/starwarsAPI/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.5d0bc1ab.chunk.css.map": "/starwarsAPI/static/css/main.5d0bc1ab.chunk.css.map",
+    "static/media/App.css": "/starwarsAPI/static/media/SEGA.12a3db8b.woff",
+    "static/media/index.css": "/starwarsAPI/static/media/staryNight.0bcb1ebe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0fb7272.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.e5e2994c.chunk.js",
+    "static/css/main.5d0bc1ab.chunk.css",
+    "static/js/main.250c3e0b.chunk.js"
+  ]
+}
