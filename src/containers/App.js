@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import CardList from '../components/CardList'
 import Scroll from '../components/Scroll'
+import ErrorBoundry from '../components/ErrorBoundry'
 import './App.css'
 
 
@@ -29,7 +30,9 @@ class App extends Component {
                 <div className='tc'>
                     <h1 className='f1'>Star Wars Character</h1>
                     <Scroll>
-                        <CardList actors={actors}/>
+                        <ErrorBoundry>
+                            <CardList actors={actors}/>
+                        </ErrorBoundry>
                     </Scroll>
                 </div> 
             );
